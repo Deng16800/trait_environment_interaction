@@ -13,3 +13,5 @@ Worksheet names:
 The worksheet names include fs2.20, fs3.20, fs4.20, fsall.20, fs2.10, fs3.10, fs4.10, and fsall.10.
 The first four and the last four worksheets represent the 20 m and 10 m scales, respectively.
 fs2, fs3, fs4, and fsall indicate the first, second, third, and full intervals, respectively.
+
+Values are median of posterior distribution, while values in the brackets are upper and lower bounds of 95% credible intervals (CI).
