@@ -15,3 +15,5 @@ The first four and the last four worksheets represent the 20 m and 10 m scales, 
 fs2, fs3, fs4, and fsall indicate the first, second, third, and full intervals, respectively.
 
 Values are median of posterior distribution, while values in the brackets are upper and lower bounds of 95% credible intervals (CI).
+
+All parameter estimates are presented in the link scale.
