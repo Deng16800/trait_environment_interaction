@@ -1,4 +1,4 @@
-# Help file of species_specific_parameters.xlsx
+# Help file of species_specific_parameters.xlsx and R code
 "species_specific_parameters.xlsx" is a file that includes species-specific parameters at different scales (20 m and 10 m) and different intervals.
 
 Column meanings:
