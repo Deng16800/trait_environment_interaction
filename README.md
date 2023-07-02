@@ -18,3 +18,5 @@ fs2, fs3, fs4, and fsall indicate the first, second, third, and full intervals, 
 Values represent medians of posterior distribution, while values in the brackets are upper and lower bounds of 95% credible intervals (CI).
 
 All parameter estimates are presented in the link scale.
+
+".rdata" is the file that run boral model
