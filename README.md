@@ -1,4 +1,5 @@
-# Help file of species_specific_parameters.xlsx and R code
+### Help file of species_specific_parameters.xlsx and R code
+## Species-specific parameters
 "species_specific_parameters.xlsx" is a file that includes species-specific parameters at different scales (20 m and 10 m) and different intervals.
 
 Column meanings:
@@ -19,4 +20,13 @@ Values represent medians of posterior distribution, while values in the brackets
 
 All parameter estimates are presented in the link scale.
 
-"model_code.R" is the file that run boral model
+## Model
+"model_code.R" is the R file that run boral model
+
+It include two scales (20*20 m and 10*10 m)
+
+I used different periods of data (fs2, fs3, fs4 and fsall) to run the model
+
+Total have 8 model
+
+#Note that in 10*10 m scale I first cut the edge of plot because the package I used to generate aspect (environmental variable) data are not good enough, so If you have finer scale of environment data, you don't have to cut the edge of plot.
