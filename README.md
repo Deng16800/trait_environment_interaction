@@ -19,4 +19,4 @@ Values represent medians of posterior distribution, while values in the brackets
 
 All parameter estimates are presented in the link scale.
 
-".rdata" is the file that run boral model
+"model_code.R" is the file that run boral model
