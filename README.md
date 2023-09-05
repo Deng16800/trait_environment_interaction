@@ -23,7 +23,7 @@ All parameter estimates are presented in the link scale.
 ## Model
 "model_code.R" is the R file that run boral model
 
-It include two scales (20*20 m and 10*10 m)
+It include two scales (20 m and 10 m)
 
 I used different periods of data (fs2, fs3, fs4 and fsall) to run the model
 
