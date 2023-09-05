@@ -29,4 +29,4 @@ I used different periods of data (fs2, fs3, fs4 and fsall) to run the model
 
 Total have 8 model
 
-#Note that in 10*10 m scale I first cut the edge of plot because the package I used to generate aspect (environmental variable) data are not good enough, so If you have finer scale of environment data, you don't have to cut the edge of plot.
+#Note that in 10 m scale I first cut the edge of plot because the package I used to generate aspect (environmental variable) data are not good enough, so If you have finer scale of environment data, you don't have to cut the edge of plot.
