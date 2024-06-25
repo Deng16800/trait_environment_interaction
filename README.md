@@ -20,8 +20,8 @@ Values represent medians of posterior distribution, while values in the brackets
 
 All parameter estimates are presented in the link scale.
 
-## Model
-"model_code.R" is the R file that run boral model
+## Recruitment model
+"recruitment_model.R" is the R file that run boral model
 
 It include two scales (20 m and 10 m)
 
