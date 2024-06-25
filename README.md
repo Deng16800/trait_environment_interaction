@@ -25,7 +25,7 @@ All parameter estimates are presented in the link scale.
 
 It include two scales (20 m and 10 m)
 
-I used different periods of data from Funshan Dynamic Forest Plot (fs2, fs3, fs4 and fsall) to run the model
+I used different periods of data (fs2, fs3, fs4 and fsall) to run the model
 
 Total have 8 model
 
